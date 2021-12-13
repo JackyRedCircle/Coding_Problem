@@ -15,28 +15,26 @@ public class Main {
         }
 
         for (int i = 0; i < tNum; i++) {
-            Calculation c = new Calculation();
+            int fir = 1;
+            int sec = 1;
 
-            c.fibonacci(numArr[i]);
-            System.out.println(c.c0+" "+c.c1);
-        }
-    }
-}
-
-class Calculation {
-
-    int c0 = 0;
-    int c1 = 0;
-
-    int fibonacci(int n) {
-        if (n == 0) {
-            c0++;
-            return 0;
-        } else if (n == 1) {
-            c1++;
-            return 1;
-        } else {
-            return fibonacci(n-1) + fibonacci(n-2);
+            if (numArr[i] == 0) {
+                System.out.println("1 0");
+            }
+            else if (numArr[i] == 1) {
+                System.out.println("0 1");
+            }
+            else if (numArr[i] == 2) {
+                System.out.println("1 2");
+            }
+            else {
+                for (int j = 3; j <= numArr[i]; j++) {
+                    int tmp = fir;
+                    fir += sec;
+                    sec = tmp;
+                }
+                System.out.println(sec+ " " + fir);
+            }
         }
     }
 }
