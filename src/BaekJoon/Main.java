@@ -1,7 +1,6 @@
 package BaekJoon;
-// [1003]
 import java.util.Scanner;
-
+// [1003]
 public class Main {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
@@ -15,28 +14,35 @@ public class Main {
         }
 
         for (int i = 0; i < tNum; i++) {
-            Calculation c = new Calculation();
-
-            c.fibonacci(numArr[i]);
-            System.out.println(c.c0+" "+c.c1);
+            if (numArr[i] == 0) {
+                System.out.println("1 0");
+            }
+            else {
+                System.out.println(Calculation.fibonacciFunction(numArr[i]-1)+" "+Calculation.fibonacciFunction(numArr[i]));
+            }
         }
     }
 }
-
+//메모라이제이션 사용
 class Calculation {
+    static int[] fiboArr = new int[41];
 
-    int c0 = 0;
-    int c1 = 0;
+    static int fibonacciFunction(int num) {
+        fiboArr[1] = 1;
 
-    int fibonacci(int n) {
-        if (n == 0) {
-            c0++;
-            return 0;
-        } else if (n == 1) {
-            c1++;
-            return 1;
-        } else {
-            return fibonacci(n-1) + fibonacci(n-2);
+        if (num == 0) {
+            return fiboArr[0];
+        }
+
+        else if (num == 1) {
+            return fiboArr[1];
+        }
+
+        else if (fiboArr[num] != 0) {
+            return fiboArr[num];
+        }
+        else {
+            return fibonacciFunction(num - 1) + fibonacciFunction(num -2);
         }
     }
 }
