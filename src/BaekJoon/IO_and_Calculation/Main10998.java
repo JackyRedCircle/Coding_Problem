@@ -1,8 +1,8 @@
-package BaekJoon;
+package BaekJoon.IO_and_Calculation;
 
 import java.util.Scanner;
 
-public class Main1001 {
+public class Main10998 {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
 
@@ -10,6 +10,6 @@ public class Main1001 {
 
         String [] ansArr = ans.split("\\s");
 
-        System.out.println(Integer.parseInt(ansArr[0])-Integer.parseInt(ansArr[1]));
+        System.out.println(Integer.parseInt(ansArr[0])*Integer.parseInt(ansArr[1]));
     }
 }

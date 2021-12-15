@@ -1,4 +1,4 @@
-package BaekJoon;
+package BaekJoon.IO_and_Calculation;
 
 public class Main10171 {
     public static void main(String[] args) {
