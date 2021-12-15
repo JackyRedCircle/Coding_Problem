@@ -1,7 +1,7 @@
 package BaekJoon;
 import java.util.Scanner;
 // [1003]
-public class Main {
+public class Main1003 {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
 
