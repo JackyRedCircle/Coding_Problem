@@ -1,4 +1,5 @@
 package BaekJoon;
+
 import java.util.Scanner;
 // [1003]
 public class Main1003 {
@@ -14,35 +15,23 @@ public class Main1003 {
         }
 
         for (int i = 0; i < tNum; i++) {
+            int fir = 1;
+            int sec = 1;
+
             if (numArr[i] == 0) {
                 System.out.println("1 0");
             }
-            else {
-                System.out.println(Calculation.fibonacciFunction(numArr[i]-1)+" "+Calculation.fibonacciFunction(numArr[i]));
+            else if (numArr[i] == 1) {
+                System.out.println("0 1");
             }
-        }
-    }
-}
-//메모라이제이션 사용
-class Calculation {
-    static int[] fiboArr = new int[41];
-
-    static int fibonacciFunction(int num) {
-        fiboArr[1] = 1;
-
-        if (num == 0) {
-            return fiboArr[0];
-        }
-
-        else if (num == 1) {
-            return fiboArr[1];
-        }
-
-        else if (fiboArr[num] != 0) {
-            return fiboArr[num];
-        }
-        else {
-            return fibonacciFunction(num - 1) + fibonacciFunction(num -2);
+            else {
+                for (int j = 2; j <= numArr[i]-1; j++) {
+                    int tmp = fir;
+                    fir += sec;
+                    sec = tmp;
+                }
+                System.out.println(sec+ " " + fir);
+            }
         }
     }
 }
