@@ -1,4 +1,4 @@
-package Use_the_for;
+package BaekJoon.Use_the_for;
 
 import java.util.Scanner;
 
