@@ -30,3 +30,5 @@ Solve the coding problem!
 * [[2739]](https://github.com/JackyRedCircle/Coding_Problem/blob/main/src/BaekJoon/Use_the_for/Main2739.java)
 * [[8393]](https://github.com/JackyRedCircle/Coding_Problem/blob/main/src/BaekJoon/Use_the_for/Main8393.java)
 * [[10950]](https://github.com/JackyRedCircle/Coding_Problem/blob/main/src/BaekJoon/Use_the_for/Main10950.java)
+* [[2741]](https://github.com/JackyRedCircle/Coding_Problem/blob/main/src/BaekJoon/Use_the_for/Main2741.java)
+* [[15552]](https://github.com/JackyRedCircle/Coding_Problem/blob/main/src/BaekJoon/Use_the_for/Main15552.java)
