@@ -7,25 +7,18 @@ public class Main2562 {
         Scanner s = new Scanner(System.in);
         int[] numArr = new int[9];
         int max = 0;
+        int index = 0;
 
         for (int i = 0; i < 9; i++) {
             numArr[i] = s.nextInt();
-            if(i > 0 && numArr[i] > max) {
+            if(numArr[i] > max) {
                 max = numArr[i];
+                index = i+1;
             }
             else {
                 continue;
             }
         }
-        System.out.println(max);
-        for (int i = 0; i < 9; i++) {
-            if (numArr[i] == max) {
-                System.out.println(i+1);
-                break;
-            }
-            else {
-                continue;
-            }
-        }
+        System.out.println(max+"\n"+index);
     }
 }
