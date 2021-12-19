@@ -40,6 +40,6 @@ Solve the coding problem!
 * [[11022]](https://github.com/JackyRedCircle/Coding_Problem/blob/main/src/BaekJoon/Use_the_for/Main11022.java)
 
 ### - while문
-* [[1110]](https://github.com/JackyRedCircle/Coding_Problem/blob/main/src/BaekJoon/Use_the_for/Main1110.java)
-* [[10951]](https://github.com/JackyRedCircle/Coding_Problem/blob/main/src/BaekJoon/Use_the_for/Main10951.java)
-* [[10952]](https://github.com/JackyRedCircle/Coding_Problem/blob/main/src/BaekJoon/Use_the_for/Main10952.java)
+* [[1110]](https://github.com/JackyRedCircle/Coding_Problem/blob/main/src/BaekJoon/Use_the_while/Main1110.java)
+* [[10951]](https://github.com/JackyRedCircle/Coding_Problem/blob/main/src/BaekJoon/Use_the_while/Main10951.java)
+* [[10952]](https://github.com/JackyRedCircle/Coding_Problem/blob/main/src/BaekJoon/Use_the_while/Main10952.java)
