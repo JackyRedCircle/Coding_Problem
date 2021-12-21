@@ -45,3 +45,7 @@ Solve the coding problem!
 >1차원 배열
 * [[2562]](https://github.com/JackyRedCircle/Coding_Problem/blob/main/src/BaekJoon/Use_the_1D_array/Main2562.java)
 * [[10818]](https://github.com/JackyRedCircle/Coding_Problem/blob/main/src/BaekJoon/Use_the_1D_array/Main10818.java)
+* [[1546]](https://github.com/JackyRedCircle/Coding_Problem/blob/main/src/BaekJoon/Use_the_1D_array/Main1546.java)
+* [[3507]](https://github.com/JackyRedCircle/Coding_Problem/blob/main/src/BaekJoon/Use_the_1D_array/Main3507.java)
+* [[8958]](https://github.com/JackyRedCircle/Coding_Problem/blob/main/src/BaekJoon/Use_the_1D_array/Main8958.java)
+* [[2577]](https://github.com/JackyRedCircle/Coding_Problem/blob/main/src/BaekJoon/Use_the_1D_array/Main2577.java)
