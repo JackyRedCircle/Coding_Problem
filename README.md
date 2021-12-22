@@ -49,3 +49,4 @@ Solve the coding problem!
 * [[3507]](https://github.com/JackyRedCircle/Coding_Problem/blob/main/src/BaekJoon/Use_the_1D_array/Main3507.java)
 * [[8958]](https://github.com/JackyRedCircle/Coding_Problem/blob/main/src/BaekJoon/Use_the_1D_array/Main8958.java)
 * [[2577]](https://github.com/JackyRedCircle/Coding_Problem/blob/main/src/BaekJoon/Use_the_1D_array/Main2577.java)
+* [[4344]](https://github.com/JackyRedCircle/Coding_Problem/blob/main/src/BaekJoon/Use_the_1D_array/Main4344.java)
