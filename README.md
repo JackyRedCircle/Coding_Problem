@@ -50,3 +50,8 @@ Solve the coding problem!
 * [[8958]](https://github.com/JackyRedCircle/Coding_Problem/blob/main/src/BaekJoon/Use_the_1D_array/Main8958.java)
 * [[2577]](https://github.com/JackyRedCircle/Coding_Problem/blob/main/src/BaekJoon/Use_the_1D_array/Main2577.java)
 * [[4344]](https://github.com/JackyRedCircle/Coding_Problem/blob/main/src/BaekJoon/Use_the_1D_array/Main4344.java)
+
+>함수
+* [[1065]](https://github.com/JackyRedCircle/Coding_Problem/blob/main/src/BaekJoon/Use_the_function/Main1065.java)
+* [[4673]](https://github.com/JackyRedCircle/Coding_Problem/blob/main/src/BaekJoon/Use_the_function/Main4673.java)
+* [[15596]](https://github.com/JackyRedCircle/Coding_Problem/blob/main/src/BaekJoon/Use_the_function/Main15596.java)
