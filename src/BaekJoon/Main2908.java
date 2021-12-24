@@ -15,10 +15,9 @@ public class Main2908 {
         for (int i = 0; i < 3; i++) {
             inArr[0] += n1Arr[2-i];
             inArr[1] += n2Arr[2-i];
-
-            if (Integer.parseInt(n1Arr[2-i]) > Integer.parseInt(n2Arr[2-i])) {
-                tmp = true;
-            }
+        }
+        if (Integer.parseInt(inArr[0]) > Integer.parseInt(inArr[1])) {
+            tmp = true;
         }
         if (tmp) {
             System.out.println(inArr[0]);
