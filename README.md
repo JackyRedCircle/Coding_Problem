@@ -55,3 +55,12 @@ Solve the coding problem!
 * [[1065]](https://github.com/JackyRedCircle/Coding_Problem/blob/main/src/BaekJoon/Use_the_function/Main1065.java)
 * [[4673]](https://github.com/JackyRedCircle/Coding_Problem/blob/main/src/BaekJoon/Use_the_function/Main4673.java)
 * [[15596]](https://github.com/JackyRedCircle/Coding_Problem/blob/main/src/BaekJoon/Use_the_function/Main15596.java)
+
+>문자열
+* [[1152]](https://github.com/JackyRedCircle/Coding_Problem/blob/main/src/BaekJoon/Use_the_String/Main1152.java)
+* [[1157]](https://github.com/JackyRedCircle/Coding_Problem/blob/main/src/BaekJoon/Use_the_String/Main1157.java)
+* [[2675]](https://github.com/JackyRedCircle/Coding_Problem/blob/main/src/BaekJoon/Use_the_String/Main2675.java)
+* [[2908]](https://github.com/JackyRedCircle/Coding_Problem/blob/main/src/BaekJoon/Use_the_String/Main2908.java)
+* [[10809]](https://github.com/JackyRedCircle/Coding_Problem/blob/main/src/BaekJoon/Use_the_String/Main10809.java)
+* [[11654]](https://github.com/JackyRedCircle/Coding_Problem/blob/main/src/BaekJoon/Use_the_String/Main11654.java)
+* [[11720]](https://github.com/JackyRedCircle/Coding_Problem/blob/main/src/BaekJoon/Use_the_String/Main11720.java)
