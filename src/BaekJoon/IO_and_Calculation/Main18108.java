@@ -2,14 +2,12 @@ package BaekJoon.IO_and_Calculation;
 
 import java.util.Scanner;
 
-public class Main10926 {
+public class Main18108 {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
 
-        String tmp = s.nextLine();
+        int tmp = Integer.parseInt(s.nextLine());
 
-        String symbol = "??!";
-
-        System.out.printf(tmp + symbol);
+        System.out.printf("%d", tmp - 543);
     }
 }
