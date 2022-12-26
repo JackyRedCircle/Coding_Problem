@@ -1,4 +1,4 @@
-package BaekJoon.Use_the_while;
+package BaekJoon;
 
 import java.util.Scanner;
 
@@ -18,7 +18,7 @@ class M3057 {
             for (int j = 0; j < c; j++) {
                 System.out.printf(this.makeZeroOrOne(Math.random())+"");
             }
-            System.out.printf("\n");
+            System.out.print("\n");
         }
     }
 
