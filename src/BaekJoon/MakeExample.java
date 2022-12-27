@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class MakeExample {
     public static void main(String[] args) {
-        M2941 m = new M2941();
+        M1316 m = new M1316();
         m.createExample(50);
     }
 }
@@ -51,7 +51,7 @@ class M2941 {
             this.randomRes = Math.random();
 
             if(this.randomRes > 0.7) {
-                this.res += alphabetArr[(int)Math.round(Math.random() * 23)];
+                this.res += alphabetArr[(int)Math.round(Math.random() * 25)];
             }
 
             else {
@@ -60,5 +60,28 @@ class M2941 {
         }
 
         System.out.print(this.res);
+    }
+}
+
+class M1316 {
+
+    String buff = "";
+
+    char[] alphabetArr = new char[26];
+    M1316() {
+        for(int i = 'a'; i <= 'z'; i++){
+            this.alphabetArr[i - 'a'] = (char)i;
+        }
+    }
+
+    void createExample(int charNum) {
+        for (int i = 0; i < charNum; i++) {
+            char tmp = this.alphabetArr[(int)Math.round(Math.random() * 25)];
+            for (int j = 0; j < (int)Math.round(Math.random() * 20); j++) {
+                buff += tmp;
+            }
+        }
+
+        System.out.print(buff);
     }
 }
