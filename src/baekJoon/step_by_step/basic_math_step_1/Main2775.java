@@ -1,4 +1,4 @@
-package baekJoon.step_by_step.basic_bath_step_1;
+package baekJoon.step_by_step.basic_math_step_1;
 
 import java.io.BufferedReader;
 import java.io.IOException;
