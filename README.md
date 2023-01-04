@@ -80,9 +80,9 @@ Solve the coding problem!
 >   >* [[11720]](https://github.com/JackyRedCircle/Coding_Problem/blob/main/src/baekJoon/step_by_step/use_the_string/Main11720.java)
 >
 >   > _기본 수학 1_
->   >* [[1193]](https://github.com/JackyRedCircle/Coding_Problem/blob/main/src/BaekJoon/step_by_step/basic_math_step_1/Main1193.java)
->   >* [[1712]](https://github.com/JackyRedCircle/Coding_Problem/blob/main/src/BaekJoon/step_by_step/basic_math_step_1/Main1712.java)
->   >* [[2292]](https://github.com/JackyRedCircle/Coding_Problem/blob/main/src/BaekJoon/step_by_step/basic_math_step_1/Main2292.java)
->   >* [[2775]](https://github.com/JackyRedCircle/Coding_Problem/blob/main/src/BaekJoon/step_by_step/basic_math_step_1/Main2775.java)
->   >* [[2869]](https://github.com/JackyRedCircle/Coding_Problem/blob/main/src/BaekJoon/step_by_step/basic_math_step_1/Main2869.java)
->   >* [[10250]](https://github.com/JackyRedCircle/Coding_Problem/blob/main/src/BaekJoon/step_by_step/basic_math_step_1/Main10250.java)
+>   >* [[1193]](https://github.com/JackyRedCircle/Coding_Problem/tree/main/src/baekJoon/step_by_step/basic_math_step_1/Main1193.java)
+>   >* [[1712]](https://github.com/JackyRedCircle/Coding_Problem/tree/main/src/baekJoon/step_by_step/basic_math_step_1/Main1712.java)
+>   >* [[2292]](https://github.com/JackyRedCircle/Coding_Problem/tree/main/src/baekJoon/step_by_step/basic_math_step_1/Main2292.java)
+>   >* [[2775]](https://github.com/JackyRedCircle/Coding_Problem/tree/main/src/baekJoon/step_by_step/basic_math_step_1/Main2775.java)
+>   >* [[2869]](https://github.com/JackyRedCircle/Coding_Problem/tree/main/src/baekJoon/step_by_step/basic_math_step_1/Main2869.java)
+>   >* [[10250]](https://github.com/JackyRedCircle/Coding_Problem/tree/main/src/baekJoon/step_by_step/basic_math_step_1/Main10250.java)
