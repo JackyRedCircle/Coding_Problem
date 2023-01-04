@@ -3,7 +3,7 @@ Solve the coding problem!
 
 ---
 
-## < BaekJoon >
+## < baekJoon >
 >입출력과 사칙연산
 * [[1000]](https://github.com/JackyRedCircle/Coding_Problem/blob/main/src/BaekJoon/IO_and_Calculation/Main1000.java)
 * [[1001]](https://github.com/JackyRedCircle/Coding_Problem/blob/main/src/BaekJoon/IO_and_Calculation/Main1001.java)
